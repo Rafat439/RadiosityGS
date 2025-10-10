@@ -1,0 +1,14 @@
+dist
+eval
+build
+*.egg-info
+optix_dev.ptx
+optix_dev.cpp1.ii
+optix_dev_ptx.h
+*.abi3.so
+__pycache__
+output
+_test.ipynb
+_mask.py
+dataset
+.ipynb_checkpoints
